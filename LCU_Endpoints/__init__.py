@@ -1,1 +1,1 @@
-import endpoints
+import LCU_Endpoints.endpoints
