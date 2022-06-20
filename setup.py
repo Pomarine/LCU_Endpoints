@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='LCU_Endpoints',
-    version='0.0.2',
+    version='0.0.3',
     author='Pomarine',
     url='https://github.com/Pomarine/LCU_Endpoints',
     license='MIT',
